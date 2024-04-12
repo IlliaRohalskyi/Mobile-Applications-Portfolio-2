@@ -24,4 +24,4 @@ flutter:
       - asset: assets/fonts/COMICSANS.TTF
         weight: 200
   assets:
-    - assets/images/1.jpeg
+    - assets/images/
